@@ -1,8 +1,8 @@
 class Msxiv < Formula
   desc "Neo Simple X Image Viewer for macOS (Apple Silicon native)"
   homepage "https://github.com/superhexxxy/msxiv"
-  url "https://github.com/superhexxxy/msxiv/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "4196218fb2b01ef87b6c55f6134602a6e4abb00b8ed6842fcbfd71ac59f4f127"
+  url "https://github.com/superhexxxy/msxiv/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "325ab79587988118819f4e1ef39a1abcab4554cfa69aaa97cd941443bd764d2a"
   license "WTFPL"
 
   depends_on macos: :ventura
