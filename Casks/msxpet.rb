@@ -12,7 +12,7 @@ cask "msxpet" do
     strategy :github_latest
   end
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "MSXPET.app"
 
