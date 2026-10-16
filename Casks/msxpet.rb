@@ -1,6 +1,6 @@
 cask "msxpet" do
-  version "0.1.0"
-  sha256 "a0870be045dec7b84449042f9474a45032446211170bb90561a520c8020a3035"
+  version "0.1.1"
+  sha256 "2883a599efb4d5f500a9b8e851dde2edfc3650d8feca6859a0128a9906ef2c40"
 
   url "https://github.com/superhexxxy/MSXPET/releases/download/v#{version}/MSXPET.zip"
   name "MSXPET"
